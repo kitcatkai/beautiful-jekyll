@@ -4,7 +4,4 @@ title: About me
 subtitle: Parking.sg Product Manager | Data Scientist
 ---
 
-My name is Tan Kai Wei. I have the following qualities:
-
-- Light-weight
-
+Always curious about how humans and society work. Kai aspire one day to start and grow his own company.
